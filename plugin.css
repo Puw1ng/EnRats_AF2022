@@ -4,7 +4,7 @@ div {
   padding: 50px;
   margin: 20px;
 }
-
+/*
 .w {
   margin: 0;
   position: absolute;
@@ -22,7 +22,7 @@ div {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
-
+*/
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
